@@ -23,7 +23,7 @@ A **statically-typed, taint-aware scripting language** focused on secure, high-e
 2. **Install Axiom**:
 
    ```bash
-   git clone https://github.com/your-org/axiom.git
+   git clone https://github.com/Ghostcar5153/axiom.git
    cd axiom/cli
    cargo install --path .
    ```
