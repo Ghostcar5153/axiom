@@ -1,0 +1,4 @@
+# Example: taint-pass
+let u = read_stdin();
+let c = sanitize_shell_input(u);
+execute_command(c);

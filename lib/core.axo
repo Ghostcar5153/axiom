@@ -1,0 +1,20 @@
+# lib/core.axo
+# Minimal core library stubs for Axiom
+
+# Sanitize a shell input string, returning a clean string
+cast sanitize_shell_input(input: str) -> str {
+    # stub: actual logic in Rust
+    -> input
+}
+
+# Execute a command string securely
+cast execute_command(cmd: str) -> none {
+    # stub: actual logic in Rust
+    -> none
+}
+
+# Print a string to stdout
+cast say(msg: str) -> none {
+    # stub: actual logic in Rust
+    -> none
+}
